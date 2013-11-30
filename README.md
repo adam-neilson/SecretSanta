@@ -5,7 +5,7 @@ A simple console application that resolves a Secret Santa list and distributes e
 
 Features
 --------
-* Supports relationships. People who are in a relationship will not be paired together.
+* Supports relationships. People who are in a relationship cannot be each others Secret Santa.
 * Supports third-party verification (auditor). Allows a summary of the result to be emailed to someone external to the Secret Santa group. Can be used as a fail-safe in the case of email loss or delivery failure.
  
 How to use it
