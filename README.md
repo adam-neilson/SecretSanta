@@ -10,6 +10,6 @@ Features
  
 How to use it
 -------------
-Most configuration is statically defined in Pogram.cs. This configuration includes auditor, people and relationships. Simply modify these lists to your liking. SMTP settings can be configured via the applications configuration file (app.config).
+Most configuration is statically defined in Program.cs. This configuration includes auditor, people and relationships. Simply modify these lists to your liking. SMTP settings can be configured via the applications configuration file (app.config).
 
 Once configured simply run the program and it will perform the matching and then email each gifter. It will finally email the summary to the designated auditor.
